@@ -1,4 +1,4 @@
 # hri-sim
 HRI-enabled Simulator based on MORSE
 
-# SOON AVAILABLE
+# SOON AVAILABLE AFTER HRI 2018
